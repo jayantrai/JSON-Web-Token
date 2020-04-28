@@ -71,3 +71,4 @@ public class JwrTokenUtil implements Serializable {
 			return (username.equals(userDetails.getUsername()) && !isTokenExpired(token));
 		}
 }
+// u just did a good/bad job!
